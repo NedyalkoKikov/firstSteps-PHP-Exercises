@@ -22,11 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Celsius-Fahrenheit.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Celsius-Fahrenheit.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Celsius-Fahrenheit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpArrays.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpMultiply/phpArrays.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -46,6 +56,7 @@
         <option value="$PROJECT_DIR$/phpNumberFromNto1.php" />
         <option value="$PROJECT_DIR$/phpPoductOf3Numbers.php" />
         <option value="$PROJECT_DIR$/Celsius-Fahrenheit.php" />
+        <option value="$PROJECT_DIR$/phpMultiply/phpArrays.php" />
       </list>
     </option>
   </component>
@@ -60,8 +71,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="279" />
-    <option name="y" value="241" />
+    <option name="x" value="987" />
+    <option name="y" value="194" />
     <option name="width" value="1340" />
     <option name="height" value="724" />
   </component>
@@ -109,6 +120,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="firstSteps-PHP-Exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="firstSteps-PHP-Exercises" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpMultiply" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -121,10 +146,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Celsius-Fahrenheit.php">
-    <configuration default="false" name="phpFunctionFromHTML.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpFunctionFromHTML.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.phpArrays.php">
     <configuration default="false" name="phpNumberFrom1ToN.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpNumberFrom1ToN.php">
       <method />
     </configuration>
@@ -135,6 +157,9 @@
       <method />
     </configuration>
     <configuration default="false" name="Celsius-Fahrenheit.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/Celsius-Fahrenheit.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpArrays.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/phpArrays.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -168,19 +193,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctionFromHTML.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFromNto1.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpPoductOf3Numbers.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Celsius-Fahrenheit.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFromNto1.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpPoductOf3Numbers.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Celsius-Fahrenheit.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpArrays.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Celsius-Fahrenheit.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpPoductOf3Numbers.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFromNto1.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctionFromHTML.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpArrays.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Celsius-Fahrenheit.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpPoductOf3Numbers.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFromNto1.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
       </list>
     </recent_temporary>
   </component>
@@ -198,18 +223,18 @@
       <option name="presentableId" value="Default" />
       <updated>1467735396285</updated>
       <workItem from="1467735397687" duration="5511000" />
-      <workItem from="1467741213981" duration="16027000" />
+      <workItem from="1467741213981" duration="17736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21538000" />
+    <option name="totallyTimeSpent" value="23247000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="279" y="241" width="1340" height="724" extended-state="0" />
+    <frame x="987" y="194" width="1340" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18429004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -303,8 +328,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Celsius-Fahrenheit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="425">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpMultiply/phpArrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>
       </provider>
