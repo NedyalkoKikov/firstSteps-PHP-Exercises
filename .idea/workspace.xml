@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="phpNumberFromNto1.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phpNumberFromNto1.php">
+      <file leaf-file-name="Celsius-Fahrenheit.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Celsius-Fahrenheit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="6" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="6" />
+            <state relative-caret-position="289">
+              <caret line="26" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,6 +44,8 @@
         <option value="$PROJECT_DIR$/phpFunctionFromHTML.php" />
         <option value="$PROJECT_DIR$/phpNumberFrom1ToN.php" />
         <option value="$PROJECT_DIR$/phpNumberFromNto1.php" />
+        <option value="$PROJECT_DIR$/phpPoductOf3Numbers.php" />
+        <option value="$PROJECT_DIR$/Celsius-Fahrenheit.php" />
       </list>
     </option>
   </component>
@@ -58,10 +60,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="793" />
-    <option name="y" value="158" />
+    <option name="x" value="279" />
+    <option name="y" value="241" />
     <option name="width" value="1340" />
-    <option name="height" value="753" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -119,10 +121,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.phpNumberFromNto1.php">
-    <configuration default="false" name="DivideNumbers.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/DivideNumbers.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.Celsius-Fahrenheit.php">
     <configuration default="false" name="phpFunctionFromHTML.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpFunctionFromHTML.php">
       <method />
     </configuration>
@@ -130,6 +129,12 @@
       <method />
     </configuration>
     <configuration default="false" name="phpNumberFromNto1.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpNumberFromNto1.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpPoductOf3Numbers.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpPoductOf3Numbers.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="Celsius-Fahrenheit.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/Celsius-Fahrenheit.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -162,18 +167,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.DivideNumbers.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctionFromHTML.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFromNto1.php" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctionFromHTML.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFromNto1.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpPoductOf3Numbers.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Celsius-Fahrenheit.php" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFromNto1.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctionFromHTML.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.DivideNumbers.php" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Celsius-Fahrenheit.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpPoductOf3Numbers.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFromNto1.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctionFromHTML.php" />
       </list>
     </recent_temporary>
   </component>
@@ -191,15 +198,15 @@
       <option name="presentableId" value="Default" />
       <updated>1467735396285</updated>
       <workItem from="1467735397687" duration="5511000" />
-      <workItem from="1467741213981" duration="5472000" />
+      <workItem from="1467741213981" duration="16027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10983000" />
+    <option name="totallyTimeSpent" value="21538000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="793" y="158" width="1340" height="753" extended-state="0" />
+    <frame x="279" y="241" width="1340" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -278,10 +285,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/phpPoductOf3Numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/phpNumberFromNto1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="6" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="6" />
+        <state relative-caret-position="340">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Celsius-Fahrenheit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
