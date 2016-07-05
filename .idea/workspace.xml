@@ -22,21 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OnClicked.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpMultiply/OnClicked.php">
+      <file leaf-file-name="phpNumberFromNto1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpNumberFromNto1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phpNumberFrom1ToN.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phpNumberFrom1ToN.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="306">
+              <caret line="18" column="6" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -53,6 +43,7 @@
         <option value="$PROJECT_DIR$/phpMultiply/DivideNumbers.php" />
         <option value="$PROJECT_DIR$/phpFunctionFromHTML.php" />
         <option value="$PROJECT_DIR$/phpNumberFrom1ToN.php" />
+        <option value="$PROJECT_DIR$/phpNumberFromNto1.php" />
       </list>
     </option>
   </component>
@@ -128,7 +119,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.phpNumberFrom1ToN.php">
+  <component name="RunManager" selected="JavaScript Debug.phpNumberFromNto1.php">
     <configuration default="false" name="DivideNumbers.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/DivideNumbers.php">
       <method />
     </configuration>
@@ -136,6 +127,9 @@
       <method />
     </configuration>
     <configuration default="false" name="phpNumberFrom1ToN.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpNumberFrom1ToN.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpNumberFromNto1.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpNumberFromNto1.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -168,16 +162,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.DivideNumbers.php" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctionFromHTML.php" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFromNto1.php" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctionFromHTML.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.DivideNumbers.php" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFromNto1.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberFrom1ToN.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctionFromHTML.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.DivideNumbers.php" />
       </list>
     </recent_temporary>
   </component>
@@ -195,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1467735396285</updated>
       <workItem from="1467735397687" duration="5511000" />
-      <workItem from="1467741213981" duration="4515000" />
+      <workItem from="1467741213981" duration="5472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10026000" />
+    <option name="totallyTimeSpent" value="10983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="793" y="158" width="1340" height="753" extended-state="0" />
@@ -278,6 +274,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpNumberFromNto1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="6" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="6" />
           <folding />
         </state>
       </provider>
