@@ -22,42 +22,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="phpArrays.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpMultiply/phpArrays.php">
+      <file leaf-file-name="phpSortTextLines.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpSortTextLines.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phpAddElementsToArrInPosition.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpMultiply/phpAddElementsToArrInPosition.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phpArraysPlusLoops.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpMultiply/phpArraysPlusLoops.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phpArrayAddElements.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phpMultiply/phpArrayAddElements.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="153">
+              <caret line="9" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+              <folding>
+                <marker date="1467764288140" expanded="true" signature="274:438" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,6 +52,7 @@
         <option value="$PROJECT_DIR$/phpMultiply/phpArrayAddElements.php" />
         <option value="$PROJECT_DIR$/phpMultiply/phpAddElementsToArrInPosition.php" />
         <option value="$PROJECT_DIR$/phpMultiply/phpArraysPlusLoops.php" />
+        <option value="$PROJECT_DIR$/phpSortTextLines.php" />
       </list>
     </option>
   </component>
@@ -94,8 +67,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="279" />
-    <option name="y" value="238" />
+    <option name="x" value="697" />
+    <option name="y" value="156" />
     <option name="width" value="1340" />
     <option name="height" value="724" />
   </component>
@@ -143,20 +116,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="firstSteps-PHP-Exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="firstSteps-PHP-Exercises" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpMultiply" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -169,10 +128,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.phpArraysPlusLoops.php">
-    <configuration default="false" name="Celsius-Fahrenheit.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/Celsius-Fahrenheit.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.phpSortTextLines.php">
     <configuration default="false" name="phpArrays.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/phpArrays.php">
       <method />
     </configuration>
@@ -183,6 +139,9 @@
       <method />
     </configuration>
     <configuration default="false" name="phpArraysPlusLoops.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/phpArraysPlusLoops.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpSortTextLines.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpSortTextLines.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -216,19 +175,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Celsius-Fahrenheit.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpArrays.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpArrayAddElements.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpAddElementsToArrInPosition.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpArraysPlusLoops.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpArrays.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpArrayAddElements.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpAddElementsToArrInPosition.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpArraysPlusLoops.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpSortTextLines.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpArraysPlusLoops.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpAddElementsToArrInPosition.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpArrayAddElements.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpArrays.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Celsius-Fahrenheit.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpSortTextLines.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpArraysPlusLoops.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpAddElementsToArrInPosition.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpArrayAddElements.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpArrays.php" />
       </list>
     </recent_temporary>
   </component>
@@ -246,15 +205,15 @@
       <option name="presentableId" value="Default" />
       <updated>1467735396285</updated>
       <workItem from="1467735397687" duration="5511000" />
-      <workItem from="1467741213981" duration="18893000" />
+      <workItem from="1467741213981" duration="21510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24404000" />
+    <option name="totallyTimeSpent" value="27021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="279" y="238" width="1340" height="724" extended-state="0" />
+    <frame x="697" y="156" width="1340" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18429004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -357,14 +316,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpMultiply/phpArrays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phpMultiply/phpAddElementsToArrInPosition.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -386,6 +337,24 @@
         <state relative-caret-position="170">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpMultiply/phpArrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpSortTextLines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <marker date="1467764288140" expanded="true" signature="274:438" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
