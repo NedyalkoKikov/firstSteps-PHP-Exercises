@@ -62,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpExtract-Capital-Case Words.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phpExtract-Capital-Case Words.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpExtract-Capital-Case Words.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -70,6 +70,16 @@
               <folding>
                 <marker date="1467813584553" expanded="true" signature="397:480" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpDates.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpDates.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,6 +108,7 @@
         <option value="$PROJECT_DIR$/phpSumsByTowns.php" />
         <option value="$PROJECT_DIR$/phpMultiply/phpStrings.php" />
         <option value="$PROJECT_DIR$/phpExtract-Capital-Case Words.php" />
+        <option value="$PROJECT_DIR$/phpDates.php" />
       </list>
     </option>
   </component>
@@ -112,8 +123,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="847" />
-    <option name="y" value="76" />
+    <option name="x" value="914" />
+    <option name="y" value="77" />
     <option name="width" value="1074" />
     <option name="height" value="724" />
   </component>
@@ -173,10 +184,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.phpExtract-Capital-Case Words.php">
-    <configuration default="false" name="phpExludeTowns.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpExludeTowns.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.phpDates.php">
     <configuration default="false" name="phpAssociativeArrays.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/phpAssociativeArrays.php">
       <method />
     </configuration>
@@ -187,6 +195,9 @@
       <method />
     </configuration>
     <configuration default="false" name="phpExtract-Capital-Case Words.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpExtract-Capital-Case Words.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpDates.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpDates.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -220,19 +231,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpExludeTowns.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpSumsByTowns.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpStrings.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpExtract-Capital-Case Words.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpSumsByTowns.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpStrings.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpExtract-Capital-Case Words.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpDates.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpExtract-Capital-Case Words.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpStrings.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpSumsByTowns.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpExludeTowns.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpDates.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpExtract-Capital-Case Words.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpStrings.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpSumsByTowns.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
       </list>
     </recent_temporary>
   </component>
@@ -251,15 +262,15 @@
       <updated>1467735396285</updated>
       <workItem from="1467735397687" duration="5511000" />
       <workItem from="1467741213981" duration="22708000" />
-      <workItem from="1467788727116" duration="16301000" />
+      <workItem from="1467788727116" duration="18486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44520000" />
+    <option name="totallyTimeSpent" value="46705000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="847" y="76" width="1074" height="724" extended-state="0" />
+    <frame x="914" y="77" width="1074" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23062381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -438,6 +449,14 @@
           <folding>
             <marker date="1467813584553" expanded="true" signature="397:480" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpDates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
