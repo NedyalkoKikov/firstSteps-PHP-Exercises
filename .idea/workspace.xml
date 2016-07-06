@@ -32,11 +32,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpAssociativeArrays.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phpAssociativeArrays.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpMultiply/phpAssociativeArrays.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpSumsByTowns.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phpSumsByTowns.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpStrings.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpMultiply/phpStrings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -63,6 +83,8 @@
         <option value="$PROJECT_DIR$/phpSortTextLines.php" />
         <option value="$PROJECT_DIR$/phpExludeTowns.php" />
         <option value="$PROJECT_DIR$/phpMultiply/phpAssociativeArrays.php" />
+        <option value="$PROJECT_DIR$/phpSumsByTowns.php" />
+        <option value="$PROJECT_DIR$/phpMultiply/phpStrings.php" />
       </list>
     </option>
   </component>
@@ -77,8 +99,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="220" />
-    <option name="y" value="217" />
+    <option name="x" value="563" />
+    <option name="y" value="205" />
     <option name="width" value="1340" />
     <option name="height" value="724" />
   </component>
@@ -152,13 +174,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.phpAssociativeArrays.php">
-    <configuration default="false" name="phpAddElementsToArrInPosition.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/phpAddElementsToArrInPosition.php">
-      <method />
-    </configuration>
-    <configuration default="false" name="phpArraysPlusLoops.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/phpArraysPlusLoops.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.phpStrings.php">
     <configuration default="false" name="phpSortTextLines.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpSortTextLines.php">
       <method />
     </configuration>
@@ -166,6 +182,12 @@
       <method />
     </configuration>
     <configuration default="false" name="phpAssociativeArrays.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/phpAssociativeArrays.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpSumsByTowns.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpSumsByTowns.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpStrings.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/phpStrings.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -199,19 +221,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpAddElementsToArrInPosition.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpArraysPlusLoops.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpSortTextLines.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpExludeTowns.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpSortTextLines.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpExludeTowns.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpSumsByTowns.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpStrings.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpExludeTowns.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpSortTextLines.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpArraysPlusLoops.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpAddElementsToArrInPosition.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpStrings.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpSumsByTowns.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpExludeTowns.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpSortTextLines.php" />
       </list>
     </recent_temporary>
   </component>
@@ -230,15 +252,15 @@
       <updated>1467735396285</updated>
       <workItem from="1467735397687" duration="5511000" />
       <workItem from="1467741213981" duration="22708000" />
-      <workItem from="1467788727116" duration="8037000" />
+      <workItem from="1467788727116" duration="13274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36256000" />
+    <option name="totallyTimeSpent" value="41493000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="217" width="1340" height="724" extended-state="0" />
+    <frame x="563" y="205" width="1340" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18429004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -380,8 +402,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phpMultiply/phpAssociativeArrays.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpSumsByTowns.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpMultiply/phpStrings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding />
         </state>
       </provider>
