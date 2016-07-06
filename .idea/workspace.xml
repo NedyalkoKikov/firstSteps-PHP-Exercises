@@ -52,12 +52,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpStrings.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phpStrings.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpMultiply/phpStrings.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpExtract-Capital-Case Words.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpExtract-Capital-Case Words.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="7" />
+              <folding>
+                <marker date="1467813584553" expanded="true" signature="397:480" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,6 +97,7 @@
         <option value="$PROJECT_DIR$/phpMultiply/phpAssociativeArrays.php" />
         <option value="$PROJECT_DIR$/phpSumsByTowns.php" />
         <option value="$PROJECT_DIR$/phpMultiply/phpStrings.php" />
+        <option value="$PROJECT_DIR$/phpExtract-Capital-Case Words.php" />
       </list>
     </option>
   </component>
@@ -99,9 +112,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="563" />
-    <option name="y" value="205" />
-    <option name="width" value="1340" />
+    <option name="x" value="847" />
+    <option name="y" value="76" />
+    <option name="width" value="1074" />
     <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -149,20 +162,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="firstSteps-PHP-Exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="firstSteps-PHP-Exercises" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpMultiply" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -174,10 +173,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.phpStrings.php">
-    <configuration default="false" name="phpSortTextLines.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpSortTextLines.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.phpExtract-Capital-Case Words.php">
     <configuration default="false" name="phpExludeTowns.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpExludeTowns.php">
       <method />
     </configuration>
@@ -188,6 +184,9 @@
       <method />
     </configuration>
     <configuration default="false" name="phpStrings.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpMultiply/phpStrings.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpExtract-Capital-Case Words.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstSteps-PHP-Exercises/phpExtract-Capital-Case Words.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -221,19 +220,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpSortTextLines.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpExludeTowns.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpSumsByTowns.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpStrings.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpExludeTowns.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpSumsByTowns.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpStrings.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpExtract-Capital-Case Words.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpStrings.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpSumsByTowns.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpExludeTowns.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpSortTextLines.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpExtract-Capital-Case Words.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpStrings.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpSumsByTowns.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpAssociativeArrays.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpExludeTowns.php" />
       </list>
     </recent_temporary>
   </component>
@@ -252,18 +251,18 @@
       <updated>1467735396285</updated>
       <workItem from="1467735397687" duration="5511000" />
       <workItem from="1467741213981" duration="22708000" />
-      <workItem from="1467788727116" duration="13274000" />
+      <workItem from="1467788727116" duration="16301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41493000" />
+    <option name="totallyTimeSpent" value="44520000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="563" y="205" width="1340" height="724" extended-state="0" />
+    <frame x="847" y="76" width="1074" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18429004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23062381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -416,11 +415,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="653" column="9" selection-start-line="653" selection-start-column="9" selection-end-line="653" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/phpMultiply/phpStrings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpExtract-Capital-Case Words.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="7" />
+          <folding>
+            <marker date="1467813584553" expanded="true" signature="397:480" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
